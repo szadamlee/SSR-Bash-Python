@@ -3,7 +3,6 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 
 ## 介绍 ##
 一个Shell脚本，集成SSR多用户管理，流量限制，加密更改等基本操作。是一个基于ShadowsocksR官方的mujson的辅助脚本。方便用户操作
-如有任何问题和意见，欢迎加QQ群：277717865
 
 ## 更新日志 ##
 - 2017-3-8 1.0正式版本
@@ -46,10 +45,3 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 ![https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/1.png](1.png)
 
 ![https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/2.png](2.png)
-
-## 参考资料 ##
-[ShadowsocksR](https://github.com/FunctionClub/shadowsocksr)
-
-[ShadowsocksR-manyuser mudbjson](https://github.com/breakwa11/shadowsocks-rss/wiki/Server-Setup(manyuser-with-mudbjson))
-
-[SSR-Bash](https://github.com/FunctionClub/SSR-Bash)
