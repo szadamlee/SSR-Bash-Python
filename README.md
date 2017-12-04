@@ -30,7 +30,7 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 
 ## 替换安装法
 正在使用原地址下载的脚本又不想丢失数据？
-`cd /usr/local/ && rm -rf SSR-Bash-Python && git clone https://github.com/szadamlee/SSR-Bash-Python.git && cp SSR-Bash-Python/ssr /usr/local/bin/ssr`
+    `cd /usr/local/ && rm -rf SSR-Bash-Python && git clone https://github.com/szadamlee/SSR-Bash-Python.git && cp SSR-Bash-Python/ssr /usr/local/bin/ssr`
 
 ## 安装 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/szadamlee/SSR-Bash-Python/master/install.sh && bash install.sh
